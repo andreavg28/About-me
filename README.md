@@ -1,4 +1,4 @@
-#                                                                                            # Hola bienvenid@ a mi perfil 👾👾👾 Soy Andrea Vasquez✨ 
+    ## Hola bienvenid@ a mi perfil 👾👾👾 Soy Andrea Vasquez✨ 
 
 👩‍💻 Estudiante de Ingeniería en Ciberseguridad con experiencia en auditorías, análisis de vulnerabilidades, pruebas de penetración y despliegue de soluciones de seguridad. Este repositorio es una muestra práctica de mis habilidades técnicas y certificaciones aplicadas en contextos reales y académicos.
 
