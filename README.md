@@ -14,7 +14,6 @@
 
 📧 andreabelen2003vg@gmail.com  
 📱 +51 920 395 178  
-🌍 [LinkedIn](www.linkedin.com/in/andrea-belen-vasquez-gonzáles-b823a22b2
-) *(puedo ayudarte a crear el perfil si no lo tienes)*
+🌍 www.linkedin.com/in/andrea-belen-vasquez-gonzáles-b823a22b2
 
 ---
