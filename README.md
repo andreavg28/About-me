@@ -4,7 +4,7 @@
 
 ## 🔐 Contenido Destacado
 
-- Auditorías de seguridad a aplicaciones móviles.
+- Auditorías de seguridad y análisis de vulnerabilidades a páginas web.
 - Proyecto real de despliegue de antivirus empresarial (Nessus Enterprises).
 - Scripts en Python para automatización de tareas de ciberseguridad.
 - Documentación de prácticas en entornos virtuales.
